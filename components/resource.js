@@ -26,7 +26,9 @@ const create = (type) => {
   };
 
   const render = () => {
-    $element.textContent = `${resource.icon} ${formatResource(resource.total)}`;
+    $element.textContent = `${resource.icon} ${formatResource(
+      Math.round(resource.total)
+    )}`;
     if (source) {
       $element.textContent += `/${formatResource(source?.total)}`;
     }
