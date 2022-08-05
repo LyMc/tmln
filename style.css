@@ -1,7 +1,19 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
 }
 body {
   background-color: black;
   color: white;
+}
+.milliseconds {
+  font-size: medium;
+  vertical-align: text-top;
+}
+.info-available {
+  cursor: help;
+}
+button {
+  cursor: pointer;
+  margin-right: 8px;
 }
