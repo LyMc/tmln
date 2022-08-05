@@ -1,6 +1,6 @@
 # Game ideas
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/tmln)
+[Play](https://tmln-77514.firebaseapp.com/) | [Edit](https://stackblitz.com/edit/tmln) | [Dashboard](https://console.firebase.google.com/project/tmln-77514/overview)
 
 ### Economic strategy with a timeline
 
